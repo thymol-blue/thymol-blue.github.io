@@ -4,42 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<blockquote> "The mere-exposure effect is a psychological phenomenon by which people tend to develop liking or disliking for things merely because they are familiar with them." <p style="text-align:right;">&#8212; Wikipedia   "<a href="https://en.wikipedia.org/wiki/Mere-exposure_effect" target="_blank">Mere-exposure effect</a>"</p> </blockquote>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>The dozen sharp plastic tips pressed into my back leading to a diverse array of raised bumps: I was allergic to almost everything. A consultation later, I sat with the low hum of the office A/C as I waited for the soreness in my arm to disappate. I would be receiving an injection every two days for the next three years.</p>
 
-<h2>Skills</h2>
+<p>I had to spend 30 minutes after the injection to make sure I didn't get a severe reaction, and spent these moments chatting with the doctor who made many passes by the waiting room. Soon, I began to fall in love with medicine.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>And as my allergies faded, my love for medicine grew. I would end up enrolling at UCSB in the microbiology major where I conducted research into the Pink Berry Consortium with the Wilbanks Lab.</p>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>During this time, I received an invite to work as an Optometric Technician and this position would lead to me being offered a position as a Clinical Rearcher conducting Phase III trials.</p>
